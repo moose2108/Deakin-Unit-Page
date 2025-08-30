@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 h1 { 
 font-size: 40px; 
 font-family: Arial 
@@ -18,7 +17,6 @@ div {
 background-color: darkcyan; 
 text-align: right; 
 } 
-=======
 
 
 h1 {
@@ -45,4 +43,3 @@ th, td {
 tr:nth-child(odd) {background-color: #f2f2f2;}
 
 
->>>>>>> add-table
